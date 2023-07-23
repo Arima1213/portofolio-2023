@@ -1,0 +1,641 @@
+body {
+  width: 100vw;
+}
+
+.unsplashkoy1fbevmli-icon {
+  position: absolute;
+  top: 2999px;
+  width: 100vw;
+  height: 1095px;
+  object-fit: cover;
+}
+.desktop-1-child,
+.unsplashuafxj9drpwo-icon {
+  position: absolute;
+  width: 100vw;
+}
+.desktop-1-child {
+  top: 1987px;
+  background-color: #fff;
+  height: 366px;
+}
+.unsplashuafxj9drpwo-icon {
+  top: 0;
+  height: 845px;
+  object-fit: cover;
+  width: 100vw;
+}
+.home {
+  position: relative;
+  color: #dca63d;
+}
+.home,
+.portofolio {
+  cursor: pointer;
+}
+.portofolio,
+.project,
+.work-experience {
+  position: relative;
+}
+.project {
+  text-align: center;
+  display: inline-block;
+  width: 115px;
+  flex-shrink: 0;
+  cursor: pointer;
+}
+.navbar {
+  position: absolute;
+  top: 59px;
+  left: 77px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 27.45px;
+  font-size: 20px;
+  color: #fff;
+}
+.unsplashhonjp8dyism-icon {
+  position: absolute;
+  top: 1401px;
+  width: 100vw;
+  height: 586px;
+  object-fit: cover;
+}
+.desktop-1-item {
+  position: absolute;
+  top: 741px;
+  left: 77px;
+  background-color: #dca63d;
+  width: 141.05px;
+  height: 1.77px;
+}
+.frame-child,
+.scroll-for-more {
+  position: absolute;
+  top: 483px;
+  left: 1010px;
+}
+.frame-child {
+  top: 0;
+  margin: 0 auto;
+  width: 248.67px;
+  height: 370.63px;
+}
+.ari-mahendra-fauzi {
+  position: absolute;
+  top: 65px;
+  left: calc(50% - 596px);
+  font-size: 120px;
+  font-family: "Kaushan Script";
+  color: #dca63d;
+  text-align: center;
+  display: inline-block;
+  width: 1197px;
+}
+.front-end-web,
+.front-end-web1 {
+  position: absolute;
+  top: 30.61px;
+  left: 0;
+  display: inline-block;
+  width: 226.22px;
+  height: 67.87px;
+}
+.front-end-web1 {
+  top: 0;
+  font-size: 18.72px;
+  width: 259px;
+  height: 23px;
+}
+.front-end-web-programmer-creat-parent {
+  position: relative;
+  width: 259px;
+  height: 98.47px;
+}
+.uiux-designer,
+.uiux-designer-designs {
+  position: absolute;
+  top: 30.61px;
+  left: 0;
+  display: inline-block;
+  width: 237.14px;
+  height: 67.87px;
+}
+.uiux-designer {
+  top: 0;
+  font-size: 18.72px;
+  height: 22.62px;
+}
+.uiux-designer-designs-visuall-parent {
+  position: relative;
+  width: 237.14px;
+  height: 98.47px;
+}
+.frame-parent {
+  position: absolute;
+  top: 479px;
+  left: 78px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 21.84px;
+  font-size: 12.48px;
+}
+.image-2-traced {
+  position: absolute;
+  height: 6.06%;
+  width: 3.35%;
+  top: 82.95%;
+  right: 17.43%;
+  bottom: 10.99%;
+  left: 79.21%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.scroll-for-more-parent {
+  position: absolute;
+  top: 237px;
+  padding: auto;
+  width: 100vw;
+  height: 577.47px;
+  font-size: 22.27px;
+  color: #fff;
+}
+.work-experience1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-family: Gyahegi;
+  color: #dca63d;
+}
+.career {
+  position: absolute;
+  top: 72px;
+  left: 4px;
+  font-size: 52px;
+}
+.jul-2020-,
+.pt-pjb-jatim {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.jul-2020- {
+  top: 92.24px;
+  font-size: 23.55px;
+  color: #575757;
+}
+.pt-pjb-jatim-parent {
+  position: absolute;
+  top: 0;
+  left: 383px;
+  width: 300px;
+  height: 119.24px;
+}
+.front-end-programmer {
+  position: absolute;
+  top: 49.07px;
+  left: 0;
+  font-size: 19.63px;
+}
+.frame-group,
+.freelance-parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 300px;
+  height: 119.24px;
+}
+.frame-group {
+  top: 164px;
+  width: fit-content;
+  font-size: 35.33px;
+}
+.work-experience-parent {
+  position: absolute;
+  top: 1548px;
+  left: 77px;
+  right: 77px;
+  height: 300px;
+  color: #fff;
+}
+.about-me {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-family: Gyahegi;
+}
+.front-end-web-container {
+  position: absolute;
+  top: 69px;
+  left: 0;
+  font-size: 49px;
+  color: #fff;
+}
+.saya-adalah-seorang {
+  margin: 0;
+}
+.saya-adalah-seorang-container {
+  position: absolute;
+  top: 269px;
+  left: 0;
+  font-size: 24px;
+  color: #9b9b9b;
+  display: inline-block;
+  width: 741px;
+  height: 250px;
+}
+.about-me-parent {
+  position: absolute;
+  top: 878px;
+  left: 77px;
+  width: 1043px;
+  height: 606px;
+  font-size: 26.43px;
+}
+.frame-item {
+  position: absolute;
+  top: -13.01px;
+  left: -18.37px;
+  background-color: #1d1d1d;
+  width: 525.06px;
+  height: 256.41px;
+}
+.image-11-icon {
+  position: absolute;
+  top: -10px;
+  left: -10px;
+  width: 485px;
+  height: 273px;
+  object-fit: cover;
+}
+.frame-inner {
+  position: absolute;
+  top: -21px;
+  left: -22.96px;
+  background-color: #fff;
+  width: 460px;
+  height: 94px;
+}
+.rectangle-group,
+.web-donasi {
+  position: absolute;
+  top: 7px;
+  left: 0.04px;
+}
+.rectangle-group {
+  top: 282px;
+  left: 22.96px;
+  width: 823.04px;
+  height: 48.99px;
+}
+.rectangle-div,
+.rectangle-parent {
+  position: absolute;
+  top: 164px;
+  left: 180px;
+  width: 460px;
+  height: 355.14px;
+}
+.rectangle-div {
+  top: -13.01px;
+  left: -18.47px;
+  background-color: #1d1d1d;
+  width: 528.02px;
+  height: 256.4px;
+}
+.image-12-icon,
+.image-13-icon {
+  position: absolute;
+  top: -6px;
+  left: 167px;
+  width: 323px;
+  height: 277px;
+  object-fit: cover;
+}
+.image-12-icon {
+  top: 0;
+  left: 0;
+  width: 321px;
+  height: 265px;
+}
+.frame-child1 {
+  position: absolute;
+  top: -21px;
+  left: -30.79px;
+  background-color: #fff;
+  width: 463px;
+  height: 94px;
+}
+.web-berita {
+  position: absolute;
+  top: 7px;
+  left: 0.21px;
+  display: inline-block;
+  width: 407px;
+  height: 31px;
+}
+.frame-div {
+  position: absolute;
+  top: 282px;
+  left: 30.79px;
+  width: 158.56px;
+  height: 48.98px;
+}
+.rectangle-container {
+  position: absolute;
+  top: 164px;
+  left: 800px;
+  width: 462.6px;
+  height: 355.14px;
+}
+.view-more {
+  position: absolute;
+  top: 6px;
+  left: 47px;
+}
+.view-more-wrapper {
+  position: absolute;
+  top: 551.14px;
+  left: 50%;
+  transform: translateX(-50%);
+
+  border-radius: 26px;
+  border: 1px solid #fff;
+  box-sizing: border-box;
+  width: 262px;
+  height: 52px;
+  font-size: 35.33px;
+  color: #fff;
+}
+
+.recent-work {
+  position: absolute;
+  top: 0;
+  left: 77px;
+  font-size: 25px;
+  font-family: Gyahegi;
+  color: #dca63d;
+}
+.frame-container,
+.project1 {
+  position: absolute;
+  top: 72px;
+  font-size: 52px;
+}
+.project1 {
+  position: absolute;
+  top: 72px;
+  left: 77px;
+  font-size: 52px;
+}
+.frame-container {
+  top: 2015px;
+  width: 100vw;
+  height: 603px;
+  font-size: 27px;
+  color: #000;
+}
+.leadership {
+  top: 102.15px;
+  display: inline-block;
+  width: 166.5px;
+  height: 29.76px;
+}
+.frame-icon,
+.if-youd-like,
+.leadership {
+  position: absolute;
+  left: 15.28px;
+}
+.if-youd-like {
+  top: 138.34px;
+  font-size: 18px;
+  color: #9b9b9b;
+  display: inline-block;
+  width: 222px;
+  height: 83.65px;
+}
+.frame-icon {
+  top: 24.13px;
+  width: 56.3px;
+  height: 56.3px;
+}
+.leadership-parent {
+  position: absolute;
+  top: 171px;
+  left: 0;
+  border-radius: 29px;
+  border: 2px solid #272727;
+  box-sizing: border-box;
+  width: 246.13px;
+  height: 246.13px;
+}
+.inttegrity {
+  position: absolute;
+  top: 102.15px;
+  left: 15.28px;
+  display: inline-block;
+  width: 153.63px;
+  height: 29.76px;
+}
+.inttegrity-parent {
+  position: absolute;
+  top: 171px;
+  left: 264.62px;
+  border-radius: 29px;
+  border: 2px solid #272727;
+  box-sizing: border-box;
+  width: 246.13px;
+  height: 246.13px;
+}
+.teamwork {
+  position: absolute;
+  top: 102.15px;
+  left: 15.28px;
+  display: inline-block;
+  width: 155.24px;
+  height: 29.76px;
+}
+.teamwork-parent {
+  position: absolute;
+  top: 171px;
+  left: 529.25px;
+  border-radius: 29px;
+  border: 2px solid #272727;
+  box-sizing: border-box;
+  width: 246.13px;
+  height: 246.13px;
+}
+.frame-child4,
+.innovation {
+  position: absolute;
+  left: 15.28px;
+}
+.innovation {
+  top: 102.15px;
+  display: inline-block;
+  width: 158.45px;
+  height: 29.76px;
+}
+.frame-child4 {
+  top: 24.13px;
+  width: 56.68px;
+  height: 56.3px;
+}
+.innovation-parent,
+.innovation-parent2 {
+  position: absolute;
+  top: 171px;
+  left: 793.87px;
+  border-radius: 29px;
+  border: 2px solid #272727;
+  box-sizing: border-box;
+  width: 246.13px;
+  height: 246.13px;
+}
+.innovation-parent2 {
+  left: 793.87px;
+}
+.about-me1,
+.what {
+  left: 0;
+  right: 0;
+  width: fit-content;
+}
+.what {
+  top: 0;
+  font-size: 25px;
+  font-family: Gyahegi;
+}
+.about-me1 {
+  top: 79px;
+  font-size: 52px;
+  color: #fff;
+}
+.aboutme-items {
+  position: absolute;
+  top: 3085.77px;
+  left: 80px;
+  right: 80o;
+  height: 417px;
+  font-size: 24px;
+}
+.whats-next {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 116px);
+  font-family: Gyahegi;
+}
+.lets-work-together {
+  position: absolute;
+  top: 81px;
+  left: calc(50% - 233px);
+  font-size: 52px;
+  color: #fff;
+}
+.merahadiansyahgmailcom,
+.whatsapp {
+  font-family: Helvetica;
+  color: #fff;
+}
+.whatsapp {
+  color: #9b9b9b;
+}
+.if-youd-like-container {
+  position: absolute;
+  top: 159px;
+  left: calc(50% - 416px);
+  font-size: 24px;
+  text-align: center;
+  display: inline-block;
+  width: 832px;
+  height: 250px;
+  color: #9b9b9b;
+}
+.get-in-touch {
+  position: absolute;
+  top: 13.49px;
+  left: calc(50% - 91px);
+}
+.get-in-touch-wrapper {
+  position: absolute;
+  top: 308.74px;
+  left: calc(50% - 193px);
+  border-radius: 28.26px;
+  background-color: #dca63d;
+  width: 386px;
+  height: 56.53px;
+  font-size: 25.19px;
+  color: #000;
+}
+.whats-next-parent {
+  position: absolute;
+  top: 74px;
+  width: 100vw;
+  height: 409px;
+}
+.desktop-1-inner {
+  position: absolute;
+  top: 3566.77px;
+  width: 100vw;
+  height: 513px;
+  background-image: url(/public/frame-33@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.with-passion-for-container {
+  position: absolute;
+  top: 71px;
+  left: 3px;
+  font-size: 45px;
+  color: #fff;
+}
+.figma {
+  position: absolute;
+  top: calc(50% - 20px);
+  left: calc(50% - 53px);
+}
+.figma-wrapper {
+  position: absolute;
+  top: 196px;
+  left: 3px;
+  border-radius: 26px;
+  background-color: #dca63d;
+  width: 262px;
+  height: 52px;
+  font-size: 35.33px;
+  color: #000;
+}
+.design-parent,
+.mask-group-icon {
+  position: absolute;
+  height: 339.77px;
+}
+.mask-group-icon {
+  top: 0;
+  left: 445px;
+  width: 598px;
+  object-fit: cover;
+}
+.design-parent {
+  top: 2682px;
+  left: 77px;
+  width: 1043px;
+}
+.desktop-1 {
+  position: relative;
+  background-color: #000;
+  width: 100%;
+  height: 4080px;
+  text-align: left;
+  font-size: 25px;
+  color: #dca63d;
+  font-family: Helvetica;
+}
