@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.124a0070.css",
+    "main.js": "/static/js/main.e62fd2fa.js",
+    "static/media/frame-33@3x.png": "/static/media/frame-33@3x.bbe88babf3ace74f343b.png",
+    "static/media/Helvetica.ttf": "/static/media/Helvetica.06113bf748ae7dc33e05.ttf",
+    "static/media/Helvetica-Bold.ttf": "/static/media/Helvetica-Bold.ed57aca7292971d8548c.ttf",
+    "static/media/Gyahegi.otf": "/static/media/Gyahegi.be6fda855e209aac59ea.otf",
+    "index.html": "/index.html",
+    "main.124a0070.css.map": "/static/css/main.124a0070.css.map",
+    "main.e62fd2fa.js.map": "/static/js/main.e62fd2fa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.124a0070.css",
+    "static/js/main.e62fd2fa.js"
+  ]
+}
